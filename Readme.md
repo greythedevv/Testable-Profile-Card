@@ -5,7 +5,7 @@ This project was developed as part of the Frontend Wizards — Stage 1B Task.
 
 🚀 Live Demo
 
-👉 Add your deployed link here (Netlify / Vercel / GitHub Pages)
+👉 Add your deployed link here [(Netlify / Vercel / GitHub Pages)](https://testable-profile-card-lovat.vercel.app/)
 
 📁 Project Structure
 
@@ -68,7 +68,7 @@ Maintains spacing and readability across devices
 
 1. Clone the repository
 
-git clone https://github.com/your-username/profile-card.git
+git clone  https://github.com/greythedevv/Testable-Profile-Card.git
 
 2. Navigate into the folder
 
@@ -106,5 +106,5 @@ Time updates every second for accuracy
 17 April 2026 — 11:59 PM
 
 🔗 Submission
-🌐 Live URL: Add here
-💻 GitHub Repo: Add here
+🌐 Live URL: [Add here](https://testable-profile-card-lovat.vercel.app/)
+💻 GitHub Repo: [Add here](https://github.com/greythedevv/Testable-Profile-Card.git)
