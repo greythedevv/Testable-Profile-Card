@@ -5,7 +5,7 @@ This project was developed as part of the Frontend Wizards — Stage 1B Task.
 
 🚀 Live Demo
 
-👉 Add your deployed link here [(Netlify / Vercel / GitHub Pages)](https://testable-profile-card-lovat.vercel.app/)
+👉 Add your deployed link here [(Link)](https://testable-profile-card-lovat.vercel.app/)
 
 📁 Project Structure
 
@@ -106,5 +106,5 @@ Time updates every second for accuracy
 17 April 2026 — 11:59 PM
 
 🔗 Submission
-🌐 Live URL: [Add here](https://testable-profile-card-lovat.vercel.app/)
-💻 GitHub Repo: [Add here](https://github.com/greythedevv/Testable-Profile-Card.git)
+🌐 Live URL: [Live url](https://testable-profile-card-lovat.vercel.app/)
+💻 GitHub Repo: [Github](https://github.com/greythedevv/Testable-Profile-Card.git)
